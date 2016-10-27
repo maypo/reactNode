@@ -17,6 +17,7 @@ npm run lint    //runs eslint
 
 modified from
 http://edspencer.net/2016/03/20/a-new-stack-for-2016-getting-started-with-react-es6-and-webpack/
-changed react components to be stateless
-changed project layout
-added enzyme and eslint
+
+. changed react components to be stateless
+. changed project layout
+. added enzyme and eslint
